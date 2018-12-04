@@ -98,7 +98,7 @@ DATA text_line TYPE STRING.
 
 >the check in feature
 
-notice as well upcoming *merges* (M) from other users or yourself. 
+notice as well upcoming *modifications to index* (M) from other users or yourself. 
 
 
 ![Image of VS](./checkin.png)
@@ -127,7 +127,7 @@ if you are a frequent scripter, it is useful to use the index as a way of checkp
 *backup2.sql* 
 *backup2new.sql*
 
-instead you can review line by line changes by visually inspecting the index or you can do a ` git -index` command for a terminal output 
+instead you can review line by line changes by visually inspecting the index or you can do a ` git show-index` command for a terminal output 
 
 > Demonstration below of git changes
 
