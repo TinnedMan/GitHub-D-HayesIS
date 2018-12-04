@@ -133,4 +133,4 @@ instead you can review line by line changes by visually inspecting the index or 
 
 now some changes ----- *here* -----
 
-![Image of VS](./github-desktop.png)
+![Image of VS](./github-desktop.PNG)
